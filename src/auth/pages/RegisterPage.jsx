@@ -33,7 +33,7 @@ const RegisterPage = () => {
                 fullWidth
               />
             </Grid>
-            <Grid container sx={{ mt: 3 }} direction="row" justifyContent="center">
+            <Grid container sx={{ mt: 2 }} direction="row" justifyContent="center">
               <Grid item xs={12} sm={12} md={8} >
                 <Button variant='contained' fullWidth>Crear cuenta</Button>
               </Grid>
